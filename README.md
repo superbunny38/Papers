@@ -1,5 +1,6 @@
 # Papers
-All the AI Papers Reviewed/Implemented!
+AI Papers Reviewed/Implemented!
+
 
 ## Paper Review
 : Papers summarized/explained by me
