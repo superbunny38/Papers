@@ -1,4 +1,5 @@
 # Paper List
+
 - [Generative Modeling by Estimating Gradients of the Data Distribution (NeurIPS, 2019)](https://arxiv.org/pdf/1907.05600.pdf)
 - [Denoising Diffusion Probabilistic Models (DDPM, NeurIPS 2020)](https://arxiv.org/pdf/2006.11239.pdf)
 - [Improved Denoising Diffusion Probabilistic Models (2021)](https://arxiv.org/abs/2102.09672)
