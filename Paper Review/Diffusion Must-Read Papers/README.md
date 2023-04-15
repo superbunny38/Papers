@@ -9,3 +9,4 @@
 - [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (ICLR, 2022)](https://arxiv.org/pdf/2112.07804.pdf)
 - [High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) (CVPR, 2022)](https://arxiv.org/pdf/2112.10752.pdf)
 - [Classifier-Free Diffusion Guidance (2022)](https://arxiv.org/pdf/2207.12598.pdf)
+- [Consistency Models (2023)](https://arxiv.org/pdf/2303.01469.pdf)
