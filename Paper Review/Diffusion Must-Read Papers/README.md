@@ -10,3 +10,7 @@
 - [High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) (CVPR, 2022)](https://arxiv.org/pdf/2112.10752.pdf)
 - [Classifier-Free Diffusion Guidance (2022)](https://arxiv.org/pdf/2207.12598.pdf)
 - [Consistency Models (2023)](https://arxiv.org/pdf/2303.01469.pdf)
+
+
+### Diffusion + Super Resolution
+- [Image Super-Resolution via Iterative Refinement (2021)](https://arxiv.org/abs/2104.07636)
