@@ -14,4 +14,4 @@
 
 
 ### Diffusion + Super Resolution
-- [Image Super-Resolution via Iterative Refinement (2021)](https://arxiv.org/abs/2104.07636)
+- [Image Super-Resolution via Iterative Refinement (=SR3) (2021)](https://arxiv.org/abs/2104.07636)
