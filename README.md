@@ -1,9 +1,10 @@
 # Papers
 AI Papers Reviewed/Implemented!
 
-
 ## Paper Review
 : Papers summarized/explained by me
+- [Hyperbolic  Image Embeddings Video](https://www.youtube.com/watch?v=a7bOszhprAA&t=1s)
+
 
 ## Code Implementation
 : Papers implemented in Code
