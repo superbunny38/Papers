@@ -1,0 +1,36 @@
+- A Continual Development Methodology for Large-Scale Multitask Dynamic ML Systems.
+- ActiveLearningbyFeatureMixing.
+- An Overview of Multi-Task Learning in Deep Neural Networks.
+- Automatically Neutralizing Subjective Bias in Text.
+- Cutmix_Implementation.
+- Dataset_condensation_with_gradient_matching.
+- Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.
+- Deepfake Videos in the wild, analysis and detection.
+- FA-GAN_presentation.
+- Face Quality Estimation and Its Correlation to Demographic and Non-Demographic bias in face recognition.
+- HRDA Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation.
+- HRDA Loss Explained.
+- Hyperbolic Image Embeddings.
+- ImageBind-Intro&RW&CLIP.
+- ImageNet-trained CNNs are biased towards texture, increasing shape bias improves accuracy and robustness.
+- ImageRestorationViaLatentSpaceEncoding.
+- ImproveIRNet.
+- Learning Loss for Active Learning.
+- Method_analysis_of_BringingOldPhotosBackToLife.
+- Motion Magnification RW ([5],[7]) c76c470c6de04ffba50c4a80c05638bf.
+- Multi-task Self-Supervised Visual Learning.
+- Multi-task self-training for learning general representations.
+- Neural Graph Collaborative Filtering.
+- Open Research Challenges in DCAI.
+- RW-Drag Your GAN Iterative Point-based Manipulation.
+- RecommederSystemsandtheirEthicalChallenges.
+- Results from running PA-GAN.
+- StereoSet Measuring stereotypical bias in pretrained language models.
+- Task Adaptive Parameter Sharing for Multi-Task Learning.
+- The power of ensembles for active learning in image classification.
+- UberNet Training a Universal Convolutional Neural Network for Low Mid and High-Level Vision using Diverse Datasets and Limited Memory.
+- Undoing the damage of Dataset Bias.
+- UniCLIP Unified Framework for Contrastive Language Image Pre-training.
+- WeaklySupervisedLearningofInstanceSegmentation.
+- Weight perturbation An optimal architecture and learning technique for analog vlsi feedforward and recurrent multilayer.
+- Zero-Shot Transfer ExperimentsHQSAM.
