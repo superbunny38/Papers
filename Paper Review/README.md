@@ -18,7 +18,7 @@
 - ImproveIRNet.
 - Learning Loss for Active Learning.
 - Method_analysis_of_BringingOldPhotosBackToLife.
-- Motion Magnification RW ([5],[7]) c76c470c6de04ffba50c4a80c05638bf.
+- Motion Magnification RW
 - Multi-task Self-Supervised Visual Learning.
 - Multi-task self-training for learning general representations.
 - Neural Graph Collaborative Filtering.
