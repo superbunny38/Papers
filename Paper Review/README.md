@@ -24,6 +24,7 @@
 - Neural Graph Collaborative Filtering.
 - Open Research Challenges in DCAI.
 - RW-Drag Your GAN Iterative Point-based Manipulation.
+- [RW] Voxel-based Scene Representation
 - RecommederSystemsandtheirEthicalChallenges.
 - Results from running PA-GAN.
 - StereoSet Measuring stereotypical bias in pretrained language models.
