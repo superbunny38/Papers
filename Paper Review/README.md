@@ -37,3 +37,4 @@
 - WeaklySupervisedLearningofInstanceSegmentation.
 - Weight perturbation An optimal architecture and learning technique for analog vlsi feedforward and recurrent multilayer.
 - Zero-Shot Transfer ExperimentsHQSAM.
+- StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners
